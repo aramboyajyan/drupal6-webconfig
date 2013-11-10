@@ -2,7 +2,7 @@
 
 [Drupal 6](http://drupal.org/) web.config file for use on Windows servers.
 
-The file includes one fixes:
+The file includes one fix:
 
 - Force of www in front of the domain name to avoid duplicate content on search engines.
 
